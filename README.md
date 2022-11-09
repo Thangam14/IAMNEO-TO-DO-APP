@@ -11,7 +11,9 @@
   
  # TECHNOLOGIES USED
   •React
+  
   •Firebase
+  
   •HTML
   
 # INSTALL
