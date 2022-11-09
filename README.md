@@ -1,6 +1,6 @@
 # IAMNEO-TO-DO-APP
-
-Simple TODO App using React and Firebase
+**
+  Simple TODO App using React and Firebase**
 
 # FEATURES
   •Custom note(update,delete)
